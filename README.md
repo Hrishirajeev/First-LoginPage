@@ -1,5 +1,10 @@
 # Trendo - Login Page
+## Live Demo
 
+- Frontend: https://your-vercel-link.vercel.app
+- Backend: https://trendo-backend-oy2c.onrender.com
+
+Test login: `test@trendo.com` / `123456`
 A simple full stack login page built with React (frontend) and Node.js + Express (backend).
 
 ## Features
