@@ -37,9 +37,9 @@ function Login() {
       return;
     }
 
-    // call backend
+    // call backend (Render)
     axios
-      .post("http://localhost:5000/api/login", {
+      .post("https://trendo-backend-oy2c.onrender.com/api/login", {
         email: email,
         password: password,
       })
@@ -66,8 +66,8 @@ function Login() {
 
         <div className="brand-content">
           <div className="logo">T</div>
-<h1>Trendo</h1>
-<p>Where trends begin.</p>
+          <h1>Trendo</h1>
+          <p>Where trends begin.</p>
         </div>
       </div>
 
