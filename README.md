@@ -61,8 +61,4 @@ Returns `true` for valid credentials, `false` otherwise.
 Integrated-LoginPage/
 ├── Backend/    (Express server)
 └── Frontend/   (React app)
-```
 
-## Author
-
-Hrishi Rajeev
