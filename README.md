@@ -1,5 +1,8 @@
 # Trendo - Login Page
+## Live Demo
+ https://first-login-page-ashy.vercel.app/
 
+Test login: `test@trendo.com` / `123456`
 A simple full stack login page built with React (frontend) and Node.js + Express (backend).
 
 ## Features
