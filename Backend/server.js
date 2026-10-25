@@ -9,7 +9,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 // Mock data (no database)
-const email = "test@zenvo.com";
+const email = "test@trendo.com";
 const password = "123456";
 
 // Login API (POST)

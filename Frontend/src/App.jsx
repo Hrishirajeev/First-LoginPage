@@ -12,5 +12,5 @@ function App() {
 }
 
 export default App;
-//test@zenvo.com
+//test@trendo.com
 //123456
